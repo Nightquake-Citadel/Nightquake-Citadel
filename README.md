@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nightquake-Citadel
+- 👀 I’m interested in the creation and implementation of financial systems.
+- 🌱 I’m currently learning Python.
